@@ -3,7 +3,7 @@
 Creación y uso de repositorios locales y remotos
 Comandos Git ejecutados desde terminal
 
-## Versionado
+## Versionado cambio en Versionado
 
 Aplicar buenas prácticas de versionado
 Uso de ramas separadas de *'main'*
