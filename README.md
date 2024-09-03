@@ -3,7 +3,7 @@
 Creación y uso de repositorios locales y remotos
 Comandos Git ejecutados desde terminal
 
-## Versionado
+## Versionado en la misma linea va a dar conflicto.
 
 Aplicar buenas prácticas de versionado
 Uso de ramas separadas de *'main'*
