@@ -1,4 +1,4 @@
-## Repositorio Git
+## Repositorio Git de nuestro Oblig
 
 Creación y uso de repositorios locales y remotos
 Comandos Git ejecutados desde terminal
